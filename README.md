@@ -36,7 +36,16 @@ A groupchat andriod app developed using flutter and firebase
 
 ### Registration and Login Screen
 
-- Here, we can enter any city and get it's weather info.
+- Here, users can register themselves or login to their existing account.
 
-![App Screenshot](https://github.com/KunalVatsKV/FlashChat-Flutter/blob/main/screenshots/login.png?raw=true) ![App Screenshot](https://github.com/KunalVatsKV/FlashChat-Flutter/blob/main/screenshots/login.png?raw=true)
+| 1 | 2|
+|------|-------|
+|<![App Screenshot](https://github.com/KunalVatsKV/FlashChat-Flutter/blob/main/screenshots/login.png?raw=true)|![App Screenshot](https://github.com/KunalVatsKV/FlashChat-Flutter/blob/main/screenshots/registration.png?raw=true)|
+
+
+### Chat Screen
+
+- This is the chat screen of the app. 
+
+![App Screenshot](https://github.com/KunalVatsKV/FlashChat-Flutter/blob/main/screenshots/chat.png?raw=true)
 
