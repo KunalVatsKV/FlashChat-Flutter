@@ -1,16 +1,42 @@
-# flashchatflutter
 
-A new Flutter project.
+# FlashChat
 
-## Getting Started
+A groupchat andriod app developed using flutter and firebase
 
-This project is a starting point for a Flutter application.
+#### Frontend
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+#### Backend
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Firebase
+- Cloud Firestore
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Description
+
+- A Group chat andriod app
+
+- Uses firebase as it's back-end, cloud firestore for storing messages.
+
+- It offers a clean UI and fast messaging.
+
+- For security, it offers a email-password authentication.
+
+
+
+## Screenshots
+
+### Homescreen
+
+- Homescreen has 2 options. For new users, they have to register, while existing users can go to the lgoin page.
+![App Screenshot](https://github.com/KunalVatsKV/FlashChat-Flutter/blob/main/screenshots/homescreen.png?raw=true)
+
+
+### Registration and Login Screen
+
+- Here, we can enter any city and get it's weather info.
+
+![App Screenshot](https://github.com/KunalVatsKV/FlashChat-Flutter/blob/main/screenshots/login.png?raw=true) ![App Screenshot](https://github.com/KunalVatsKV/FlashChat-Flutter/blob/main/screenshots/login.png?raw=true)
+
